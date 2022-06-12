@@ -139,3 +139,5 @@ wandb
 *.ckpt
 *lightning-quick-start-quick_start_train*
 flagged
+
+digits.png
